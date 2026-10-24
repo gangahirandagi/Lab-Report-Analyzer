@@ -1,0 +1,5 @@
+{
+ "report_date":"2026-01-15", "lab_name":"Synthetic Teaching Lab",
+ "results":[{"biomarker":"Hemoglobin","value":12.4,"value_text":"12.4","unit":"g/dL","reference_low":12.0,"reference_high":15.5,"reference_range_text":"12.0-15.5","lab_flag":"normal","extraction_status":"extracted","source_snippet":"SYNTHETIC EXAMPLE — NOT A REAL PATIENT REPORT"}],
+ "summary":"Synthetic example only. No clinical conclusion.","warnings":["Synthetic teaching data; do not use clinically."],"needs_human_review":true
+}

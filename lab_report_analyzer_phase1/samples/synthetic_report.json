@@ -1,0 +1,7 @@
+{
+  "note": "Synthetic fixture for testing validation logic only; not a real patient report or medical guidance.",
+  "results": [
+    {"test_name":"Example Test A","value_text":"12.4","numeric_value":12.4,"unit":"g/dL","reference_range_text":"Example range printed by fictional lab","lab_flag":null,"collection_date":"2026-01-15","source_page":1,"extraction_confidence":"high"},
+    {"test_name":"Example Test B","value_text":null,"numeric_value":null,"unit":null,"reference_range_text":null,"lab_flag":null,"collection_date":"2026-01-15","source_page":1,"extraction_confidence":"low"}
+  ]
+}

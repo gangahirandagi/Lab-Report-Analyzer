@@ -1,0 +1,5 @@
+[
+ {"id":"reference-range-context","keywords":["reference range","normal range","range"],"text":"Reference intervals can differ by laboratory, method, age, sex, pregnancy status, and other factors. Prefer the interval printed on the patient's own report; do not substitute a generic range."},
+ {"id":"trend-context","keywords":["trend","change","increased","decreased","compare"],"text":"A numerical change between reports is descriptive only. Meaning depends on units, timing, laboratory methods, patient context, and clinical assessment."},
+ {"id":"missing-context","keywords":["missing","uncertain","unit"],"text":"If a value, unit, or reference interval is missing or unclear, verify it against the original report rather than inferring it."}
+]
